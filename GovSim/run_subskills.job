@@ -1,0 +1,19 @@
+#!/bin/bash
+
+#SBATCH --partition=gpu_a100
+#SBATCH --gpus=2
+#SBATCH --job-name=sheep
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=9
+#SBATCH --time=72:00:00
+#SBATCH --output=slurm_output_DSR1%A.out
+#SBATCH --error=slurm_error_DSR1%A.out
+
+module purge
+module load 2023
+module load Anaconda3/2023.07-2
+
+source activate GovComGPTQ
+
+pip install transformers_stream_generator
+srun python run_subskill_experiment.py sheep

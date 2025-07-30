@@ -1,0 +1,137 @@
+{
+    "vague-wildflower-980": {
+        "gains": {
+            "persona_0": 63.0,
+            "persona_1": 27.0,
+            "persona_2": 17.0,
+            "persona_3": 22.0,
+            "persona_4": 19.0
+        },
+        "survival_time": 3,
+        "efficiency": 24.66666666666667,
+        "equality": 72.97297297297297,
+        "over_usage": 40.0
+    },
+    "stoic-salad-1045": {
+        "gains": {
+            "persona_0": 10.0,
+            "persona_1": 10.0,
+            "persona_2": 50.0,
+            "persona_3": 10.0,
+            "persona_4": 18.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.333333333333332,
+        "equality": 64.08163265306122,
+        "over_usage": 40.0
+    },
+    "upbeat-valley-984": {
+        "gains": {
+            "persona_0": 112.0,
+            "persona_1": 85.0,
+            "persona_2": 105.0,
+            "persona_3": 81.0,
+            "persona_4": 109.0
+        },
+        "survival_time": 12,
+        "efficiency": 82.0,
+        "equality": 93.0081300813008,
+        "over_usage": 15.0
+    },
+    "vivid-thunder-1046": {
+        "gains": {
+            "persona_0": 62.0,
+            "persona_1": 61.0,
+            "persona_2": 52.0,
+            "persona_3": 33.0,
+            "persona_4": 35.0
+        },
+        "survival_time": 8,
+        "efficiency": 40.5,
+        "equality": 86.17283950617283,
+        "over_usage": 30.0
+    },
+    "tough-breeze-1049": {
+        "gains": {
+            "persona_0": 90.0,
+            "persona_1": 119.0,
+            "persona_2": 72.0,
+            "persona_3": 80.0,
+            "persona_4": 70.0
+        },
+        "survival_time": 9,
+        "efficiency": 71.83333333333333,
+        "equality": 89.23433874709976,
+        "over_usage": 24.444444444444443
+    },
+    "chocolate-eon-1038": {
+        "gains": {
+            "persona_0": 54.0,
+            "persona_1": 26.0,
+            "persona_2": 75.0,
+            "persona_3": 44.0,
+            "persona_4": 43.0
+        },
+        "survival_time": 6,
+        "efficiency": 40.33333333333333,
+        "equality": 81.98347107438016,
+        "over_usage": 23.333333333333332
+    },
+    "cerulean-butterfly-1023": {
+        "gains": {
+            "persona_0": 98.0,
+            "persona_1": 68.0,
+            "persona_2": 125.0,
+            "persona_3": 85.0,
+            "persona_4": 63.0
+        },
+        "survival_time": 11,
+        "efficiency": 73.16666666666667,
+        "equality": 85.96810933940775,
+        "over_usage": 16.363636363636363
+    },
+    "autumn-dew-995": {
+        "gains": {
+            "persona_0": 26.0,
+            "persona_1": 40.0,
+            "persona_2": 16.0,
+            "persona_3": 24.0,
+            "persona_4": 26.0
+        },
+        "survival_time": 3,
+        "efficiency": 21.999999999999996,
+        "equality": 84.84848484848484,
+        "over_usage": 20.0
+    },
+    "zesty-star-977": {
+        "gains": {
+            "persona_0": 12.0,
+            "persona_1": 20.0,
+            "persona_2": 52.0,
+            "persona_3": 12.0,
+            "persona_4": 12.0
+        },
+        "survival_time": 2,
+        "efficiency": 18.000000000000004,
+        "equality": 67.4074074074074,
+        "over_usage": 20.0
+    },
+    "general": {
+        "survival_rate": 11.11111111111111,
+        "mean_survival": 6.111111111111111,
+        "std_survival": 3.842581436842352,
+        "moe_confidence_survival": 3.1328396637958558,
+        "mean_gains": 51.84444444444445,
+        "std_gains": 29.36283028710168,
+        "moe_confidence_gains": 23.939385768836313,
+        "mean_efficiency": 43.2037037037037,
+        "std_efficiency": 24.4690252392514,
+        "moe_confidence_efficiency": 19.94948814069693,
+        "mean_equality": 80.63082073669862,
+        "std_equality": 9.506805764586913,
+        "moe_confidence_equality": 7.750856726090742,
+        "mean_over_usage": 25.460157126823795,
+        "std_over_usage": 8.824004478821077,
+        "moe_confidence_over_usage": 7.1941718553347345
+    }
+}

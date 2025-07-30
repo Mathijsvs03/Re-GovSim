@@ -1,0 +1,124 @@
+{
+    "lemon-surf-1184": {
+        "gains": {
+            "persona_0": 0.0,
+            "persona_1": 50.0,
+            "persona_2": 70.0,
+            "persona_3": 20.0,
+            "persona_4": 80.0
+        },
+        "survival_time": 5,
+        "efficiency": 36.66666666666667,
+        "equality": 61.81818181818181,
+        "over_usage": 28.000000000000004
+    },
+    "eternal-wave-1181": {
+        "gains": {
+            "persona_0": 0.0,
+            "persona_1": 50.0,
+            "persona_2": 10.0,
+            "persona_3": 53.0,
+            "persona_4": 37.0
+        },
+        "survival_time": 2,
+        "efficiency": 25.0,
+        "equality": 61.06666666666667,
+        "over_usage": 50.0
+    },
+    "helpful-salad-1180": {
+        "gains": {
+            "persona_0": 47.0,
+            "persona_1": 53.0,
+            "persona_2": 0.0,
+            "persona_3": 0.0,
+            "persona_4": 0.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 38.800000000000004,
+        "over_usage": 40.0
+    },
+    "resilient-aardvark-1185": {
+        "gains": {
+            "persona_0": 10.0,
+            "persona_1": 43.0,
+            "persona_2": 47.0,
+            "persona_3": 0.0,
+            "persona_4": 20.0
+        },
+        "survival_time": 2,
+        "efficiency": 19.999999999999996,
+        "equality": 57.666666666666664,
+        "over_usage": 30.0
+    },
+    "electric-puddle-1182": {
+        "gains": {
+            "persona_0": 0.0,
+            "persona_1": 0.0,
+            "persona_2": 20.0,
+            "persona_3": 50.0,
+            "persona_4": 20.0
+        },
+        "survival_time": 3,
+        "efficiency": 15.000000000000002,
+        "equality": 46.666666666666664,
+        "over_usage": 20.0
+    },
+    "vital-gorge-1188": {
+        "gains": {
+            "persona_0": 34.0,
+            "persona_1": 0.0,
+            "persona_2": 50.0,
+            "persona_3": 66.0,
+            "persona_4": 10.0
+        },
+        "survival_time": 3,
+        "efficiency": 26.66666666666667,
+        "equality": 57.00000000000001,
+        "over_usage": 46.666666666666664
+    },
+    "different-microwave-1186": {
+        "gains": {
+            "persona_0": 20.0,
+            "persona_1": 0.0,
+            "persona_2": 0.0,
+            "persona_3": 50.0,
+            "persona_4": 50.0
+        },
+        "survival_time": 2,
+        "efficiency": 19.999999999999996,
+        "equality": 50.0,
+        "over_usage": 30.0
+    },
+    "feasible-eon-1183": {
+        "gains": {
+            "persona_0": 50.0,
+            "persona_1": 50.0,
+            "persona_2": 0.0,
+            "persona_3": 0.0,
+            "persona_4": 0.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 40.0,
+        "over_usage": 40.0
+    },
+    "general": {
+        "survival_rate": 0.0,
+        "mean_survival": 2.375,
+        "std_survival": 1.2183492931011204,
+        "moe_confidence_survival": 1.08889232053671,
+        "mean_gains": 26.5,
+        "std_gains": 8.04673846971554,
+        "moe_confidence_gains": 7.19172389613997,
+        "mean_efficiency": 22.083333333333332,
+        "std_efficiency": 6.705615391429619,
+        "moe_confidence_efficiency": 5.99310324678331,
+        "mean_equality": 51.627272727272725,
+        "std_equality": 8.553400561006411,
+        "moe_confidence_equality": 7.6445500794337855,
+        "mean_over_usage": 35.58333333333333,
+        "std_over_usage": 9.568103840945241,
+        "moe_confidence_over_usage": 8.551435005953046
+    }
+}

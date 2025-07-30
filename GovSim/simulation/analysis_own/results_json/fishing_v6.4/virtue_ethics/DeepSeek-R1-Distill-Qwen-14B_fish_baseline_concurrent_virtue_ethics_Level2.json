@@ -1,0 +1,85 @@
+{
+    "graceful-pyramid-1228": {
+        "gains": {
+            "persona_0": 48.0,
+            "persona_1": 34.0,
+            "persona_2": 32.0,
+            "persona_3": 42.0,
+            "persona_4": 32.0
+        },
+        "survival_time": 4,
+        "efficiency": 31.333333333333336,
+        "equality": 91.06382978723404,
+        "over_usage": 60.0
+    },
+    "wild-dragon-1230": {
+        "gains": {
+            "persona_0": 72.0,
+            "persona_1": 69.0,
+            "persona_2": 70.0,
+            "persona_3": 83.0,
+            "persona_4": 73.0
+        },
+        "survival_time": 12,
+        "efficiency": 61.16666666666667,
+        "equality": 96.62125340599455,
+        "over_usage": 35.0
+    },
+    "brisk-frost-1220": {
+        "gains": {
+            "persona_0": 120.0,
+            "persona_1": 120.0,
+            "persona_2": 120.0,
+            "persona_3": 120.0,
+            "persona_4": 120.0
+        },
+        "survival_time": 12,
+        "efficiency": 100.0,
+        "equality": 100.0,
+        "over_usage": 0.0
+    },
+    "wandering-forest-1235": {
+        "gains": {
+            "persona_0": 36.0,
+            "persona_1": 55.0,
+            "persona_2": 44.0,
+            "persona_3": 38.0,
+            "persona_4": 38.0
+        },
+        "survival_time": 9,
+        "efficiency": 35.16666666666667,
+        "equality": 91.65876777251185,
+        "over_usage": 73.33333333333333
+    },
+    "dauntless-hill-1217": {
+        "gains": {
+            "persona_0": 39.0,
+            "persona_1": 31.0,
+            "persona_2": 49.0,
+            "persona_3": 38.0,
+            "persona_4": 36.0
+        },
+        "survival_time": 5,
+        "efficiency": 32.166666666666664,
+        "equality": 91.91709844559585,
+        "over_usage": 76.0
+    },
+    "general": {
+        "survival_rate": 40.0,
+        "mean_survival": 8.4,
+        "std_survival": 3.3823069050575527,
+        "moe_confidence_survival": 4.695394725411879,
+        "mean_gains": 62.36,
+        "std_gains": 31.712054490366906,
+        "moe_confidence_gains": 44.02338923277253,
+        "mean_efficiency": 51.966666666666676,
+        "std_efficiency": 26.426712075305755,
+        "moe_confidence_efficiency": 36.686157693977115,
+        "mean_equality": 94.25218988226726,
+        "std_equality": 3.4926755784512986,
+        "moe_confidence_equality": 4.8486110069174995,
+        "mean_over_usage": 48.86666666666666,
+        "std_over_usage": 28.421900788730586,
+        "moe_confidence_over_usage": 39.455923662644246
+    }
+}

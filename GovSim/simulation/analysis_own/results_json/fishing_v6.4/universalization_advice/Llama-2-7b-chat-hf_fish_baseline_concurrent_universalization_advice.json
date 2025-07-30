@@ -1,0 +1,150 @@
+{
+    "balmy-haze-564": {
+        "gains": {
+            "persona_0": 24.0,
+            "persona_1": 15.0,
+            "persona_2": 19.0,
+            "persona_3": 21.0,
+            "persona_4": 21.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 92.0,
+        "over_usage": 100.0
+    },
+    "serene-galaxy-525": {
+        "gains": {
+            "persona_0": 20.0,
+            "persona_1": 22.0,
+            "persona_2": 17.0,
+            "persona_3": 23.0,
+            "persona_4": 18.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 93.6,
+        "over_usage": 100.0
+    },
+    "breezy-violet-528": {
+        "gains": {
+            "persona_0": 18.0,
+            "persona_1": 16.0,
+            "persona_2": 18.0,
+            "persona_3": 24.0,
+            "persona_4": 24.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 91.2,
+        "over_usage": 100.0
+    },
+    "fine-waterfall-566": {
+        "gains": {
+            "persona_0": 20.0,
+            "persona_1": 26.0,
+            "persona_2": 17.0,
+            "persona_3": 16.0,
+            "persona_4": 21.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 90.4,
+        "over_usage": 100.0
+    },
+    "lemon-lion-563": {
+        "gains": {
+            "persona_0": 22.0,
+            "persona_1": 16.0,
+            "persona_2": 30.0,
+            "persona_3": 12.0,
+            "persona_4": 20.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 83.2,
+        "over_usage": 100.0
+    },
+    "serene-rain-526": {
+        "gains": {
+            "persona_0": 17.0,
+            "persona_1": 20.0,
+            "persona_2": 17.0,
+            "persona_3": 24.0,
+            "persona_4": 22.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 92.4,
+        "over_usage": 100.0
+    },
+    "likely-donkey-567": {
+        "gains": {
+            "persona_0": 18.0,
+            "persona_1": 27.0,
+            "persona_2": 22.0,
+            "persona_3": 12.0,
+            "persona_4": 21.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 86.4,
+        "over_usage": 100.0
+    },
+    "valiant-cloud-565": {
+        "gains": {
+            "persona_0": 17.0,
+            "persona_1": 15.0,
+            "persona_2": 23.0,
+            "persona_3": 19.0,
+            "persona_4": 26.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 88.8,
+        "over_usage": 100.0
+    },
+    "leafy-sound-529": {
+        "gains": {
+            "persona_0": 19.0,
+            "persona_1": 22.0,
+            "persona_2": 14.0,
+            "persona_3": 23.0,
+            "persona_4": 22.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 91.60000000000001,
+        "over_usage": 100.0
+    },
+    "vocal-wave-527": {
+        "gains": {
+            "persona_0": 14.0,
+            "persona_1": 19.0,
+            "persona_2": 25.0,
+            "persona_3": 23.0,
+            "persona_4": 19.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 89.60000000000001,
+        "over_usage": 100.0
+    },
+    "general": {
+        "survival_rate": 0.0,
+        "mean_survival": 1.0,
+        "std_survival": 0.0,
+        "moe_confidence_survival": 0.0,
+        "mean_gains": 20.0,
+        "std_gains": 0.0,
+        "moe_confidence_gains": 0.0,
+        "mean_efficiency": 16.666666666666664,
+        "std_efficiency": 0.0,
+        "moe_confidence_efficiency": 0.0,
+        "mean_equality": 89.92,
+        "std_equality": 2.9599999999999995,
+        "moe_confidence_equality": 2.2319950672377775,
+        "mean_over_usage": 100.0,
+        "std_over_usage": 0.0,
+        "moe_confidence_over_usage": 0.0
+    }
+}

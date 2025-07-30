@@ -1,0 +1,19 @@
+code_version: v7.1
+debug: false
+group_name: phi-4_pollution
+hydra:
+  run:
+    dir: ./outputs/${uuid:}
+llm:
+  backend: transformers
+  cot_prompt: think_step_by_step
+  description_version: v1.0
+  few_shots: 0
+  is_api: false
+  out_format: freeform
+  path: microsoft/phi-4
+  render: false
+  temperature: 0.0
+  top_p: 1.0
+seed: 958682846
+split: single

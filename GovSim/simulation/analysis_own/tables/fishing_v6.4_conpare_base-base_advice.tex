@@ -1,0 +1,22 @@
+
+    \begin{table}[H]
+    \centering
+    \setlength\tabcolsep{5pt} % default value: 6pt
+    \begin{tabular}{lcccccc}
+    \hline
+    \multicolumn{1}{c}{\multirow{2}{*}{\textbf{Model}}} & \textbf{\begin{tabular}[c]{@{}c@{}}Survival\\ Rate\end{tabular}} & \textbf{\begin{tabular}[c]{@{}c@{}}Survival\\ Time\end{tabular}} & \textbf{\begin{tabular}[c]{@{}c@{}}Total\\ Gain\end{tabular}} & \textbf{Efficiency} & \textbf{Equality} & \textbf{Over-usage} \\
+    \multicolumn{1}{c}{}                                & Max = 100              & Max = 12               & Max = 120           & Max = 100           & Max = 1           & Min = 0             \\ \hline
+    \multicolumn{7}{l}{\textit{\textbf{Open-Weights Models}}}                                                                                                                                   \\
+    Llama-2-7b                                          & 0.0                    & 0.0                    & 0.0                 & 0.0                 & \textcolor{red}{-11.12$\shortdownarrow$}               & \textcolor{red}{-32.0$\shortdownarrow$}                 \\
+    Llama-2-13b                                         & 0.0                    & 0.0                    & 0.0                 & 0.0                 & \textcolor{red}{-13.68$\shortdownarrow$}              & \textcolor{red}{-28.0$\shortdownarrow$}                \\
+    Llama-3-8b                                          & \textcolor{ForestGreen}{+60.0$\shortuparrow$}                   & \textcolor{ForestGreen}{+9.0$\shortuparrow$}                   & \textcolor{ForestGreen}{+47.62$\shortuparrow$}                & \textcolor{ForestGreen}{+39.68$\shortuparrow$}                & \textcolor{red}{-3.99$\shortdownarrow$}              & \textcolor{red}{-79.67$\shortdownarrow$}                \\
+    Mistral-7b                                          & \textcolor{ForestGreen}{+20.0$\shortuparrow$}                   & \textcolor{ForestGreen}{+3.4$\shortuparrow$}                   & \textcolor{ForestGreen}{+19.44$\shortuparrow$}                & \textcolor{ForestGreen}{+16.2$\shortuparrow$}                & \textcolor{ForestGreen}{+6.41$\shortuparrow$}              & \textcolor{red}{-22.67$\shortdownarrow$}                \\
+    R1-Distill-Llama-8b                                 & \textcolor{ForestGreen}{+60.0$\shortuparrow$}                   & \textcolor{ForestGreen}{+3.8$\shortuparrow$}                   & \textcolor{ForestGreen}{+20.32$\shortuparrow$}                & \textcolor{ForestGreen}{+16.93$\shortuparrow$}                & \textcolor{ForestGreen}{+6.63$\shortuparrow$}              & \textcolor{red}{-18.44$\shortdownarrow$}                \\
+    R1-Distill-Qwen-14b                                 & \textcolor{ForestGreen}{+20.0$\shortuparrow$}                   & \textcolor{ForestGreen}{+1.0$\shortuparrow$}                   & \textcolor{ForestGreen}{+20.24$\shortuparrow$}                & \textcolor{ForestGreen}{+16.87$\shortuparrow$}                & \textcolor{ForestGreen}{+0.24$\shortuparrow$}              & \textcolor{red}{-9.14$\shortdownarrow$}                \\
+    Phi-4                                               & \textcolor{ForestGreen}{+60.0$\shortuparrow$}                   & \textcolor{ForestGreen}{+5.8$\shortuparrow$}                   & \textcolor{ForestGreen}{+49.36$\shortuparrow$}                & \textcolor{ForestGreen}{+41.13$\shortuparrow$}                & \textcolor{ForestGreen}{+9.43$\shortuparrow$}              & \textcolor{red}{-28.0$\shortdownarrow$}                \\
+    Qwen-14b                                            & \textcolor{ForestGreen}{+20.0$\shortuparrow$}                   & \textcolor{ForestGreen}{+4.42$\shortuparrow$}                   & \textcolor{ForestGreen}{+14.82$\shortuparrow$}                & \textcolor{ForestGreen}{+12.35$\shortuparrow$}                & \textcolor{ForestGreen}{+10.81$\shortuparrow$}              & \textcolor{red}{-19.85$\shortdownarrow$}                \\ \hline
+    \end{tabular}
+    \caption{\textcolor{ForestGreen}{+60.0$\shortuparrow$}}
+    \label{tab:\textcolor{ForestGreen}{+3.8$\shortuparrow$}}
+    \end{table}
+    

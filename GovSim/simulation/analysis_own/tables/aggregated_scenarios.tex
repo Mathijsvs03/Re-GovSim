@@ -1,0 +1,18 @@
+
+    \begin{table}[H]
+    \centering
+    \setlength\tabcolsep{5pt} % default value: 6pt
+    \begin{tabular}{lcccccc}
+    \hline
+    \multicolumn{1}{c}{\multirow{2}{*}{\textbf{Model}}} & \textbf{\begin{tabular}[c]{@{}c@{}}Survival\\ Rate\end{tabular}} & \textbf{\begin{tabular}[c]{@{}c@{}}Survival\\ Time\end{tabular}} & \textbf{\begin{tabular}[c]{@{}c@{}}Total\\ Gain\end{tabular}} & \textbf{Efficiency} & \textbf{Equality} & \textbf{Over-usage} \\
+    \multicolumn{1}{c}{}                                & Max = 100              & Max = 12               & Max = 120           & Max = 100           & Max = 1           & Min = 0             \\ \hline
+    \multicolumn{7}{l}{\textit{\textbf{Open-Weights Models}}}                                                                                                                                   \\
+    Llama-2-7b                                          & 0.00                    & 1.00$\pm$\scriptsize{0.0}                    & 20.00$\pm$\scriptsize{0.0}                 & 16.67$\pm$\scriptsize{0.0}                 & 75.09$\pm$\scriptsize{8.11}               & 80.00$\pm$\scriptsize{9.36}                 \\
+    Llama-2-13b                                         & 0.00                    & 1.00$\pm$\scriptsize{0.0}                    & 20.00$\pm$\scriptsize{0.0}                 & 16.67$\pm$\scriptsize{0.0}                 & 77.81$\pm$\scriptsize{9.52}              & 80.00$\pm$\scriptsize{16.21}                \\
+    Llama-3-8b                                          & 0.00                   & 1.00$\pm$\scriptsize{0.0}                   & 20.00$\pm$\scriptsize{0.0}                & 16.67$\pm$\scriptsize{0.0}                & 87.57$\pm$\scriptsize{6.82}              & 93.33$\pm$\scriptsize{5.4}                \\
+    Mistral-7b                                          & 0.00                   & 1.00$\pm$\scriptsize{0.0}                   & 20.00$\pm$\scriptsize{0.0}                & 16.67$\pm$\scriptsize{0.0}                & 80.27$\pm$\scriptsize{6.62}              & 85.33$\pm$\scriptsize{10.65}                \\ \hline
+    \end{tabular}
+    \caption{Aggregated baseline results (3 scenarios)}
+    \label{tab:aggregated_baseline}
+    \end{table}
+    

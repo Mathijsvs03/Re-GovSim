@@ -1,0 +1,19 @@
+code_version: v7.0
+debug: false
+group_name: Qwen-14B_fishing
+hydra:
+  run:
+    dir: ./outputs/${uuid:}
+llm:
+  backend: transformers
+  cot_prompt: think_step_by_step
+  description_version: v3.0
+  few_shots: 0
+  is_api: false
+  out_format: freeform
+  path: Qwen/Qwen-14B
+  render: false
+  temperature: 0.0
+  top_p: 1.0
+seed: 958682846
+split: single

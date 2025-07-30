@@ -1,0 +1,85 @@
+{
+    "jumping-firefly-372": {
+        "gains": {
+            "persona_0": 0.0,
+            "persona_1": 0.0,
+            "persona_2": 50.0,
+            "persona_3": 0.0,
+            "persona_4": 50.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 40.0,
+        "over_usage": 40.0
+    },
+    "celestial-wood-371": {
+        "gains": {
+            "persona_0": 30.0,
+            "persona_1": 0.0,
+            "persona_2": 35.0,
+            "persona_3": 0.0,
+            "persona_4": 35.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 58.00000000000001,
+        "over_usage": 60.0
+    },
+    "summer-cherry-370": {
+        "gains": {
+            "persona_0": 25.0,
+            "persona_1": 0.0,
+            "persona_2": 40.0,
+            "persona_3": 0.0,
+            "persona_4": 35.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 54.0,
+        "over_usage": 60.0
+    },
+    "stilted-bird-373": {
+        "gains": {
+            "persona_0": 0.0,
+            "persona_1": 40.0,
+            "persona_2": 30.0,
+            "persona_3": 0.0,
+            "persona_4": 30.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 56.00000000000001,
+        "over_usage": 60.0
+    },
+    "daily-galaxy-369": {
+        "gains": {
+            "persona_0": 0.0,
+            "persona_1": 0.0,
+            "persona_2": 51.0,
+            "persona_3": 0.0,
+            "persona_4": 49.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 39.6,
+        "over_usage": 40.0
+    },
+    "general": {
+        "survival_rate": 0.0,
+        "mean_survival": 1.0,
+        "std_survival": 0.0,
+        "moe_confidence_survival": 0.0,
+        "mean_gains": 20.0,
+        "std_gains": 0.0,
+        "moe_confidence_gains": 0.0,
+        "mean_efficiency": 16.666666666666664,
+        "std_efficiency": 0.0,
+        "moe_confidence_efficiency": 0.0,
+        "mean_equality": 49.519999999999996,
+        "std_equality": 8.037512052868104,
+        "moe_confidence_equality": 11.157855498576977,
+        "mean_over_usage": 52.0,
+        "std_over_usage": 9.797958971132712,
+        "moe_confidence_over_usage": 13.601747613165138
+    }
+}

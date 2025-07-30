@@ -1,0 +1,18 @@
+
+    \begin{table}[H]
+    \centering
+    \setlength\tabcolsep{5pt} % default value: 6pt
+    \begin{tabular}{lcccccc}
+    \hline
+    \multicolumn{1}{c}{\multirow{2}{*}{\textbf{Model}}} & \textbf{\begin{tabular}[c]{@{}c@{}}Survival\\ Rate\end{tabular}} & \textbf{\begin{tabular}[c]{@{}c@{}}Survival\\ Time\end{tabular}} & \textbf{\begin{tabular}[c]{@{}c@{}}Total\\ Gain\end{tabular}} & \textbf{Efficiency} & \textbf{Equality} & \textbf{Over-usage} \\
+    \multicolumn{1}{c}{}                                & Max = 100              & Max = 12               & Max = 120           & Max = 100           & Max = 1           & Min = 0             \\ \hline
+    \multicolumn{7}{l}{\textit{\textbf{Open-Weights Models}}}                                                                                                                                   \\
+    Llama-2-7b                                          & 0.0                    & 0.0                    & 0.0                 & 0.0                 & \textcolor{ForestGreen}{+33.36$\shortuparrow$}               & \textcolor{ForestGreen}{+32.0$\shortuparrow$}                 \\
+    Llama-2-13b                                         & 0.0                    & \textcolor{ForestGreen}{+0.4$\shortuparrow$}                    & \textcolor{ForestGreen}{+1.48$\shortuparrow$}                 & \textcolor{ForestGreen}{+1.23$\shortuparrow$}                 & \textcolor{ForestGreen}{+16.11$\shortuparrow$}              & \textcolor{ForestGreen}{+12.0$\shortuparrow$}                \\
+    Llama-3-8b                                          & \textcolor{ForestGreen}{+0.4$\shortuparrow$}                   & \textcolor{ForestGreen}{+7.8$\shortuparrow$}                   & \textcolor{ForestGreen}{+24.36$\shortuparrow$}                & \textcolor{ForestGreen}{+20.3$\shortuparrow$}                & \textcolor{red}{-0.52$\shortdownarrow$}              & \textcolor{red}{-71.2$\shortdownarrow$}                \\
+    Mistral-7b                                          & 0.0                   & 0.0                   & 0.0                & 0.0                & \textcolor{red}{-26.4$\shortdownarrow$}              & \textcolor{red}{-44.0$\shortdownarrow$}                \\ \hline
+    \end{tabular}
+    \caption{Comparison between: \textit{default \text{and} Universalization - Pollution}}
+    \label{tab:pollution_baseline}
+    \end{table}
+    

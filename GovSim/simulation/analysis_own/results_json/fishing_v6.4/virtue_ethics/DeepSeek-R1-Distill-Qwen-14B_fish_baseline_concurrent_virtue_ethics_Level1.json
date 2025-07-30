@@ -1,0 +1,98 @@
+{
+    "rose-fire-1211": {
+        "gains": {
+            "persona_0": 120.0,
+            "persona_1": 110.0,
+            "persona_2": 120.0,
+            "persona_3": 120.0,
+            "persona_4": 120.0
+        },
+        "survival_time": 12,
+        "efficiency": 98.33333333333333,
+        "equality": 98.64406779661017,
+        "over_usage": 0.0
+    },
+    "fine-aardvark-1199": {
+        "gains": {
+            "persona_0": 120.0,
+            "persona_1": 120.0,
+            "persona_2": 120.0,
+            "persona_3": 120.0,
+            "persona_4": 120.0
+        },
+        "survival_time": 12,
+        "efficiency": 100.0,
+        "equality": 100.0,
+        "over_usage": 0.0
+    },
+    "daily-flower-1202": {
+        "gains": {
+            "persona_0": 100.0,
+            "persona_1": 120.0,
+            "persona_2": 115.0,
+            "persona_3": 120.0,
+            "persona_4": 105.0
+        },
+        "survival_time": 12,
+        "efficiency": 93.33333333333333,
+        "equality": 96.07142857142857,
+        "over_usage": 0.0
+    },
+    "electric-meadow-1206": {
+        "gains": {
+            "persona_0": 46.0,
+            "persona_1": 36.0,
+            "persona_2": 45.0,
+            "persona_3": 50.0,
+            "persona_4": 40.0
+        },
+        "survival_time": 12,
+        "efficiency": 36.16666666666667,
+        "equality": 93.73271889400921,
+        "over_usage": 20.0
+    },
+    "distinctive-surf-1115": {
+        "gains": {
+            "persona_0": 0.0,
+            "persona_1": 10.0,
+            "persona_2": 10.0,
+            "persona_3": 0.0,
+            "persona_4": 0.0
+        },
+        "survival_time": 1,
+        "efficiency": 3.3333333333333326,
+        "equality": 40.0,
+        "over_usage": 0.0
+    },
+    "splendid-forest-1214": {
+        "gains": {
+            "persona_0": 120.0,
+            "persona_1": 120.0,
+            "persona_2": 120.0,
+            "persona_3": 120.0,
+            "persona_4": 120.0
+        },
+        "survival_time": 12,
+        "efficiency": 100.0,
+        "equality": 100.0,
+        "over_usage": 0.0
+    },
+    "general": {
+        "survival_rate": 83.33333333333334,
+        "mean_survival": 10.166666666666666,
+        "std_survival": 4.099457958749615,
+        "moe_confidence_survival": 4.712733365333244,
+        "mean_gains": 86.23333333333333,
+        "std_gains": 45.735532017118686,
+        "moe_confidence_gains": 52.57752851405853,
+        "mean_efficiency": 71.8611111111111,
+        "std_efficiency": 38.11294334759891,
+        "moe_confidence_efficiency": 43.81460709504878,
+        "mean_equality": 88.07470254367466,
+        "std_equality": 21.61509781587879,
+        "moe_confidence_equality": 24.84869797345211,
+        "mean_over_usage": 3.3333333333333335,
+        "std_over_usage": 7.453559924999299,
+        "moe_confidence_over_usage": 8.568606118787713
+    }
+}

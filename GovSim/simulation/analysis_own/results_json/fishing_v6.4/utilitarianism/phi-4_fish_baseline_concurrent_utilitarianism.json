@@ -1,0 +1,99 @@
+{
+    "resilient-firebrand-865": {
+        "gains": {
+            "persona_0": 90.0,
+            "persona_1": 99.0,
+            "persona_2": 94.0,
+            "persona_3": 108.0,
+            "persona_4": 108.0
+        },
+        "survival_time": 12,
+        "efficiency": 83.16666666666667,
+        "equality": 95.99198396793587,
+        "over_usage": 1.6666666666666667
+    },
+    "cool-water-864": {
+        "gains": {
+            "persona_0": 110.0,
+            "persona_1": 100.0,
+            "persona_2": 120.0,
+            "persona_3": 100.0,
+            "persona_4": 120.0
+        },
+        "survival_time": 12,
+        "efficiency": 91.66666666666666,
+        "equality": 95.63636363636363,
+        "over_usage": 0.0
+    },
+    "decent-sunset-869": {
+        "gains": {
+            "persona_0": 100.0,
+            "persona_1": 120.0,
+            "persona_2": 72.0,
+            "persona_3": 110.0,
+            "persona_4": 110.0
+        },
+        "survival_time": 12,
+        "efficiency": 85.33333333333333,
+        "equality": 91.71875,
+        "over_usage": 0.0
+    },
+    "cerulean-sea-868": {
+        "gains": {
+            "persona_0": 88.0,
+            "persona_1": 99.0,
+            "persona_2": 149.0,
+            "persona_3": 77.0,
+            "persona_4": 95.0
+        },
+        "survival_time": 12,
+        "efficiency": 84.66666666666667,
+        "equality": 87.79527559055119,
+        "over_usage": 1.6666666666666667
+    },
+    "sage-shadow-870": {
+        "gains": {
+            "persona_0": 110.0,
+            "persona_1": 110.0,
+            "persona_2": 70.0,
+            "persona_3": 120.0,
+            "persona_4": 110.0
+        },
+        "survival_time": 12,
+        "efficiency": 86.66666666666667,
+        "equality": 92.3076923076923,
+        "over_usage": 0.0
+    },
+    "usual-gorge-863": {},
+    "light-rancor-862": {
+        "gains": {
+            "persona_0": 30.0,
+            "persona_1": 20.0,
+            "persona_2": 30.0,
+            "persona_3": 30.0,
+            "persona_4": 30.0
+        },
+        "survival_time": 3,
+        "efficiency": 23.33333333333333,
+        "equality": 94.28571428571428,
+        "over_usage": 0.0
+    },
+    "general": {
+        "survival_rate": 83.33333333333334,
+        "mean_survival": 10.5,
+        "std_survival": 3.3541019662496847,
+        "moe_confidence_survival": 3.85587275492211,
+        "mean_gains": 90.96666666666668,
+        "std_gains": 28.33946992368692,
+        "moe_confidence_gains": 32.579030413276485,
+        "mean_efficiency": 75.80555555555556,
+        "std_efficiency": 23.616224936405768,
+        "moe_confidence_efficiency": 27.149192011063743,
+        "mean_equality": 92.95596329804289,
+        "std_equality": 2.7914707833846486,
+        "moe_confidence_equality": 3.209072427767895,
+        "mean_over_usage": 0.5555555555555556,
+        "std_over_usage": 0.7856742013183862,
+        "moe_confidence_over_usage": 0.9032103906179327
+    }
+}

@@ -1,0 +1,18 @@
+
+    \begin{table}[H]
+    \centering
+    \setlength\tabcolsep{5pt} % default value: 6pt
+    \begin{tabular}{lcccccc}
+    \hline
+    \multicolumn{1}{c}{\multirow{2}{*}{\textbf{Model}}} & \textbf{\begin{tabular}[c]{@{}c@{}}Survival\\ Rate\end{tabular}} & \textbf{\begin{tabular}[c]{@{}c@{}}Survival\\ Time\end{tabular}} & \textbf{\begin{tabular}[c]{@{}c@{}}Total\\ Gain\end{tabular}} & \textbf{Efficiency} & \textbf{Equality} & \textbf{Over-usage} \\
+    \multicolumn{1}{c}{}                                & Max = 100              & Max = 12               & Max = 120           & Max = 100           & Max = 1           & Min = 0             \\ \hline
+    \multicolumn{7}{l}{\textit{\textbf{Open-Weights Models}}}                                                                                                                                   \\
+    Llama-2-7b                                          & 60.00                    & 9.00$\pm$\scriptsize{5.55}                    & 44.92$\pm$\scriptsize{17.66}                 & 37.43$\pm$\scriptsize{14.72}                 & 71.74$\pm$\scriptsize{18.51}               & 8.24$\pm$\scriptsize{8.64}                 \\
+    Llama-2-13b                                         & 0.00                    & 1.00$\pm$\scriptsize{0.0}                    & 20.00$\pm$\scriptsize{0.0}                 & 16.67$\pm$\scriptsize{0.0}                 & 66.96$\pm$\scriptsize{11.77}              & 64.00$\pm$\scriptsize{20.78}                \\
+    Llama-3-8b                                          & 0.00                   & 1.00$\pm$\scriptsize{0.0}                   & 20.00$\pm$\scriptsize{0.0}                & 16.67$\pm$\scriptsize{0.0}                & 70.16$\pm$\scriptsize{20.64}              & 72.00$\pm$\scriptsize{28.31}                \\
+    Mistral-7b                                          & 0.00                   & 1.20$\pm$\scriptsize{0.56}                   & 20.40$\pm$\scriptsize{1.11}                & 17.00$\pm$\scriptsize{0.93}                & 77.95$\pm$\scriptsize{4.36}              & 68.00$\pm$\scriptsize{13.6}                \\ \hline
+    \end{tabular}
+    \caption{Experiment: \textit{Consequentialism - Pollution}}
+    \label{tab:pollution_consequentialism}
+    \end{table}
+    

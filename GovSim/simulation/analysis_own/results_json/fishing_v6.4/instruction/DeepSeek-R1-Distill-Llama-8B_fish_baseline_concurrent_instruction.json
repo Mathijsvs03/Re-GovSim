@@ -1,0 +1,137 @@
+{
+    "dark-thunder-1004": {
+        "gains": {
+            "persona_0": 103.0,
+            "persona_1": 67.0,
+            "persona_2": 88.0,
+            "persona_3": 94.0,
+            "persona_4": 106.0
+        },
+        "survival_time": 12,
+        "efficiency": 76.33333333333333,
+        "equality": 91.87772925764193,
+        "over_usage": 5.0
+    },
+    "apricot-grass-1178": {
+        "gains": {
+            "persona_0": 130.0,
+            "persona_1": 110.0,
+            "persona_2": 120.0,
+            "persona_3": 90.0,
+            "persona_4": 60.0
+        },
+        "survival_time": 12,
+        "efficiency": 85.0,
+        "equality": 86.66666666666667,
+        "over_usage": 1.6666666666666667
+    },
+    "iconic-darkness-1172": {
+        "gains": {
+            "persona_0": 125.0,
+            "persona_1": 115.0,
+            "persona_2": 96.0,
+            "persona_3": 105.0,
+            "persona_4": 107.0
+        },
+        "survival_time": 12,
+        "efficiency": 91.33333333333333,
+        "equality": 95.03649635036496,
+        "over_usage": 1.6666666666666667
+    },
+    "major-universe-1050": {
+        "gains": {
+            "persona_0": 60.0,
+            "persona_1": 70.0,
+            "persona_2": 60.0,
+            "persona_3": 50.0,
+            "persona_4": 50.0
+        },
+        "survival_time": 7,
+        "efficiency": 48.33333333333333,
+        "equality": 93.10344827586206,
+        "over_usage": 0.0
+    },
+    "legendary-glade-1190": {
+        "gains": {
+            "persona_0": 97.0,
+            "persona_1": 116.0,
+            "persona_2": 116.0,
+            "persona_3": 99.0,
+            "persona_4": 117.0
+        },
+        "survival_time": 12,
+        "efficiency": 90.83333333333333,
+        "equality": 95.81651376146789,
+        "over_usage": 6.666666666666667
+    },
+    "sage-bush-988": {
+        "gains": {
+            "persona_0": 50.0,
+            "persona_1": 50.0,
+            "persona_2": 50.0,
+            "persona_3": 30.0,
+            "persona_4": 50.0
+        },
+        "survival_time": 5,
+        "efficiency": 38.33333333333333,
+        "equality": 93.04347826086956,
+        "over_usage": 0.0
+    },
+    "glorious-leaf-1022": {
+        "gains": {
+            "persona_0": 50.0,
+            "persona_1": 70.0,
+            "persona_2": 45.0,
+            "persona_3": 70.0,
+            "persona_4": 70.0
+        },
+        "survival_time": 7,
+        "efficiency": 50.83333333333333,
+        "equality": 90.81967213114754,
+        "over_usage": 0.0
+    },
+    "leafy-music-978": {
+        "gains": {
+            "persona_0": 85.0,
+            "persona_1": 103.0,
+            "persona_2": 94.0,
+            "persona_3": 124.0,
+            "persona_4": 112.0
+        },
+        "survival_time": 12,
+        "efficiency": 86.33333333333333,
+        "equality": 92.58687258687259,
+        "over_usage": 5.0
+    },
+    "earthy-field-1015": {
+        "gains": {
+            "persona_0": 120.0,
+            "persona_1": 120.0,
+            "persona_2": 110.0,
+            "persona_3": 110.0,
+            "persona_4": 50.0
+        },
+        "survival_time": 12,
+        "efficiency": 85.0,
+        "equality": 88.23529411764706,
+        "over_usage": 0.0
+    },
+    "general": {
+        "survival_rate": 66.66666666666666,
+        "mean_survival": 10.11111111111111,
+        "std_survival": 2.7261875880856214,
+        "moe_confidence_survival": 2.22264869262496,
+        "mean_gains": 86.97777777777777,
+        "std_gains": 23.42713420979934,
+        "moe_confidence_gains": 19.100038988852077,
+        "mean_efficiency": 72.48148148148147,
+        "std_efficiency": 19.52261184149945,
+        "moe_confidence_efficiency": 15.91669915737673,
+        "mean_equality": 91.90957460094893,
+        "std_equality": 2.7966038898643197,
+        "moe_confidence_equality": 2.280058792271776,
+        "mean_over_usage": 2.2222222222222223,
+        "std_over_usage": 2.4845199749997664,
+        "moe_confidence_over_usage": 2.0256181556866486
+    }
+}

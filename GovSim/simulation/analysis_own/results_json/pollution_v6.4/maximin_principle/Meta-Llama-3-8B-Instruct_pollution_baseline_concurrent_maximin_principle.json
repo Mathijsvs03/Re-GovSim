@@ -1,0 +1,85 @@
+{
+    "worldly-waterfall-292": {
+        "gains": {
+            "persona_0": 27.0,
+            "persona_1": 20.0,
+            "persona_2": 30.0,
+            "persona_3": 0.0,
+            "persona_4": 34.0
+        },
+        "survival_time": 2,
+        "efficiency": 18.500000000000007,
+        "equality": 71.89189189189189,
+        "over_usage": 40.0
+    },
+    "fresh-wood-293": {
+        "gains": {
+            "persona_0": 50.0,
+            "persona_1": 26.0,
+            "persona_2": 37.0,
+            "persona_3": 19.0,
+            "persona_4": 31.0
+        },
+        "survival_time": 3,
+        "efficiency": 27.16666666666666,
+        "equality": 82.08588957055215,
+        "over_usage": 66.66666666666666
+    },
+    "eager-grass-295": {
+        "gains": {
+            "persona_0": 32.0,
+            "persona_1": 5.0,
+            "persona_2": 40.0,
+            "persona_3": 9.0,
+            "persona_4": 45.0
+        },
+        "survival_time": 3,
+        "efficiency": 21.83333333333334,
+        "equality": 66.10687022900763,
+        "over_usage": 53.333333333333336
+    },
+    "scarlet-rain-296": {
+        "gains": {
+            "persona_0": 40.0,
+            "persona_1": 25.0,
+            "persona_2": 45.0,
+            "persona_3": 15.0,
+            "persona_4": 15.0
+        },
+        "survival_time": 2,
+        "efficiency": 23.33333333333333,
+        "equality": 75.71428571428571,
+        "over_usage": 50.0
+    },
+    "spring-star-294": {
+        "gains": {
+            "persona_0": 35.0,
+            "persona_1": 1.0,
+            "persona_2": 10.0,
+            "persona_3": 74.0,
+            "persona_4": 15.0
+        },
+        "survival_time": 2,
+        "efficiency": 22.499999999999996,
+        "equality": 49.33333333333333,
+        "over_usage": 20.0
+    },
+    "general": {
+        "survival_rate": 0.0,
+        "mean_survival": 2.4,
+        "std_survival": 0.4898979485566356,
+        "moe_confidence_survival": 0.6800873806582569,
+        "mean_gains": 27.2,
+        "std_gains": 3.3418557718728685,
+        "moe_confidence_gains": 4.639239550046718,
+        "mean_efficiency": 22.666666666666668,
+        "std_efficiency": 2.784879809894052,
+        "moe_confidence_efficiency": 3.8660329583722586,
+        "mean_equality": 69.02645414781414,
+        "std_equality": 11.133998884138927,
+        "moe_confidence_equality": 15.456468351572637,
+        "mean_over_usage": 46.0,
+        "std_over_usage": 15.5492050529208,
+        "moe_confidence_over_usage": 21.585757129449416
+    }
+}

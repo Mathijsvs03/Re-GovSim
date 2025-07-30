@@ -1,0 +1,85 @@
+{
+    "graceful-pyramid-1325": {
+        "gains": {
+            "persona_0": 75.0,
+            "persona_1": 75.0,
+            "persona_2": 75.0,
+            "persona_3": 87.0,
+            "persona_4": 74.0
+        },
+        "survival_time": 8,
+        "efficiency": 64.33333333333333,
+        "equality": 97.30569948186528,
+        "over_usage": 30.0
+    },
+    "celestial-dragon-1313": {
+        "gains": {
+            "persona_0": 150.0,
+            "persona_1": 40.0,
+            "persona_2": 90.0,
+            "persona_3": 70.0,
+            "persona_4": 90.0
+        },
+        "survival_time": 9,
+        "efficiency": 73.33333333333334,
+        "equality": 78.18181818181819,
+        "over_usage": 24.444444444444443
+    },
+    "golden-cloud-1326": {
+        "gains": {
+            "persona_0": 57.0,
+            "persona_1": 56.0,
+            "persona_2": 78.0,
+            "persona_3": 58.0,
+            "persona_4": 63.0
+        },
+        "survival_time": 7,
+        "efficiency": 52.0,
+        "equality": 93.58974358974359,
+        "over_usage": 28.57142857142857
+    },
+    "charmed-water-1324": {
+        "gains": {
+            "persona_0": 10.0,
+            "persona_1": 19.0,
+            "persona_2": 10.0,
+            "persona_3": 41.0,
+            "persona_4": 20.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 71.2,
+        "over_usage": 60.0
+    },
+    "good-fire-1327": {
+        "gains": {
+            "persona_0": 40.0,
+            "persona_1": 30.0,
+            "persona_2": 30.0,
+            "persona_3": 30.0,
+            "persona_4": 70.0
+        },
+        "survival_time": 3,
+        "efficiency": 33.333333333333336,
+        "equality": 82.0,
+        "over_usage": 13.333333333333334
+    },
+    "general": {
+        "survival_rate": 0.0,
+        "mean_survival": 5.6,
+        "std_survival": 3.0724582991474434,
+        "moe_confidence_survival": 4.265255902796136,
+        "mean_gains": 57.52,
+        "std_gains": 24.717799254788037,
+        "moe_confidence_gains": 34.313806376109014,
+        "mean_efficiency": 47.93333333333334,
+        "std_efficiency": 20.598166045656697,
+        "moe_confidence_efficiency": 28.594838646757516,
+        "mean_equality": 84.45545225068541,
+        "std_equality": 9.691840658253597,
+        "moe_confidence_equality": 13.454431777982604,
+        "mean_over_usage": 31.269841269841272,
+        "std_over_usage": 15.508838173004529,
+        "moe_confidence_over_usage": 21.529718916371593
+    }
+}

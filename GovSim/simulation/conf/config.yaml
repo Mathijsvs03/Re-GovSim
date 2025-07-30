@@ -1,0 +1,20 @@
+code_version: v6.4
+debug: false
+defaults:
+- experiment: basic
+group_name: Meta-Llama-3-8B-Instruct_fish_baseline_concurrent
+hydra:
+  run:
+    dir: ./outputs/${uuid:}
+  searchpath:
+  - ./simulation/scenarios/fishing/conf
+  - ./simulation/scenarios/sheep/conf
+  - ./simulation/scenarios/pollution/conf
+llm:
+  backend: transformers
+  is_api: false
+  path: meta-llama/Meta-Llama-3-8B-Instruct
+  render: false
+  temperature: 0.6
+  top_p: 1.0
+seed: 2746317213

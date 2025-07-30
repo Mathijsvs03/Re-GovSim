@@ -1,0 +1,163 @@
+{
+    "jumping-night-992": {
+        "gains": {
+            "persona_0": 20.0,
+            "persona_1": 20.0,
+            "persona_2": 10.0,
+            "persona_3": 10.0,
+            "persona_4": 10.0
+        },
+        "survival_time": 1,
+        "efficiency": 11.66666666666667,
+        "equality": 82.85714285714285,
+        "over_usage": 40.0
+    },
+    "firm-oath-975": {
+        "gains": {
+            "persona_0": 114.0,
+            "persona_1": 114.0,
+            "persona_2": 114.0,
+            "persona_3": 114.0,
+            "persona_4": 114.0
+        },
+        "survival_time": 12,
+        "efficiency": 95.0,
+        "equality": 100.0,
+        "over_usage": 0.0
+    },
+    "royal-armadillo-983": {
+        "gains": {
+            "persona_0": 120.0,
+            "persona_1": 120.0,
+            "persona_2": 120.0,
+            "persona_3": 120.0,
+            "persona_4": 120.0
+        },
+        "survival_time": 12,
+        "efficiency": 100.0,
+        "equality": 100.0,
+        "over_usage": 0.0
+    },
+    "fallen-cherry-1017": {
+        "gains": {
+            "persona_0": 49.0,
+            "persona_1": 43.0,
+            "persona_2": 48.0,
+            "persona_3": 62.0,
+            "persona_4": 47.0
+        },
+        "survival_time": 12,
+        "efficiency": 41.5,
+        "equality": 93.57429718875501,
+        "over_usage": 28.333333333333332
+    },
+    "firm-jazz-967": {
+        "gains": {
+            "persona_0": 100.0,
+            "persona_1": 100.0,
+            "persona_2": 100.0,
+            "persona_3": 100.0,
+            "persona_4": 100.0
+        },
+        "survival_time": 10,
+        "efficiency": 83.33333333333334,
+        "equality": 100.0,
+        "over_usage": 0.0
+    },
+    "avid-fog-1014": {
+        "gains": {
+            "persona_0": 30.0,
+            "persona_1": 42.0,
+            "persona_2": 32.0,
+            "persona_3": 50.0,
+            "persona_4": 39.0
+        },
+        "survival_time": 5,
+        "efficiency": 32.166666666666664,
+        "equality": 89.63730569948186,
+        "over_usage": 64.0
+    },
+    "toasty-fire-1013": {
+        "gains": {
+            "persona_0": 110.0,
+            "persona_1": 120.0,
+            "persona_2": 120.0,
+            "persona_3": 120.0,
+            "persona_4": 120.0
+        },
+        "survival_time": 12,
+        "efficiency": 98.33333333333333,
+        "equality": 98.64406779661017,
+        "over_usage": 0.0
+    },
+    "crimson-planet-990": {
+        "gains": {
+            "persona_0": 108.0,
+            "persona_1": 106.0,
+            "persona_2": 108.0,
+            "persona_3": 110.0,
+            "persona_4": 102.0
+        },
+        "survival_time": 12,
+        "efficiency": 89.0,
+        "equality": 98.65168539325843,
+        "over_usage": 0.0
+    },
+    "vague-pond-985": {
+        "gains": {
+            "persona_0": 52.0,
+            "persona_1": 44.0,
+            "persona_2": 52.0,
+            "persona_3": 63.0,
+            "persona_4": 52.0
+        },
+        "survival_time": 8,
+        "efficiency": 43.833333333333336,
+        "equality": 94.22053231939164,
+        "over_usage": 70.0
+    },
+    "rosy-planet-1020": {
+        "gains": {
+            "persona_0": 115.0,
+            "persona_1": 110.0,
+            "persona_2": 105.0,
+            "persona_3": 110.0,
+            "persona_4": 105.0
+        },
+        "survival_time": 12,
+        "efficiency": 90.83333333333333,
+        "equality": 98.1651376146789,
+        "over_usage": 0.0
+    },
+    "dauntless-wind-1018": {
+        "gains": {
+            "persona_0": 43.0,
+            "persona_1": 44.0,
+            "persona_2": 52.0,
+            "persona_3": 42.0,
+            "persona_4": 42.0
+        },
+        "survival_time": 6,
+        "efficiency": 37.16666666666667,
+        "equality": 96.05381165919282,
+        "over_usage": 70.0
+    },
+    "general": {
+        "survival_rate": 54.54545454545454,
+        "mean_survival": 9.272727272727273,
+        "std_survival": 3.620419591225432,
+        "moe_confidence_survival": 2.550945368660284,
+        "mean_gains": 78.85454545454546,
+        "std_gains": 37.088012364604076,
+        "moe_confidence_gains": 26.13219020347829,
+        "mean_efficiency": 65.71212121212122,
+        "std_efficiency": 30.906676970503394,
+        "moe_confidence_efficiency": 21.776825169565235,
+        "mean_equality": 95.61854368441014,
+        "std_equality": 5.1113221949771415,
+        "moe_confidence_equality": 3.6014344062794508,
+        "mean_over_usage": 24.757575757575754,
+        "std_over_usage": 29.474896324074965,
+        "moe_confidence_over_usage": 20.767993425919812
+    }
+}

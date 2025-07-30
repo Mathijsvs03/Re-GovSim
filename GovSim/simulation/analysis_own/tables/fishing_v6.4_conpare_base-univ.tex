@@ -1,0 +1,18 @@
+
+    \begin{table}[H]
+    \centering
+    \setlength\tabcolsep{5pt} % default value: 6pt
+    \begin{tabular}{lcccccc}
+    \hline
+    \multicolumn{1}{c}{\multirow{2}{*}{\textbf{Model}}} & \textbf{\begin{tabular}[c]{@{}c@{}}Survival\\ Rate\end{tabular}} & \textbf{\begin{tabular}[c]{@{}c@{}}Survival\\ Time\end{tabular}} & \textbf{\begin{tabular}[c]{@{}c@{}}Total\\ Gain\end{tabular}} & \textbf{Efficiency} & \textbf{Equality} & \textbf{Over-usage} \\
+    \multicolumn{1}{c}{}                                & Max = 100              & Max = 12               & Max = 120           & Max = 100           & Max = 1           & Min = 0             \\ \hline
+    \multicolumn{7}{l}{\textit{\textbf{Open-Weights Models}}}                                                                                                                                   \\
+    Llama-2-7b                                          & 0.0                    & 0.0                    & 0.0                 & 0.0                 & \textcolor{red}{-11.12$\shortdownarrow$}               & \textcolor{red}{-32.0$\shortdownarrow$}                 \\
+    Llama-2-13b                                         & 0.0                    & 0.0                    & 0.0                 & 0.0                 & \textcolor{red}{-13.68$\shortdownarrow$}              & \textcolor{red}{-28.0$\shortdownarrow$}                \\
+    Llama-3-8b                                          & \textcolor{ForestGreen}{+0.6$\shortuparrow$}                   & \textcolor{ForestGreen}{+9.4$\shortuparrow$}                   & \textcolor{ForestGreen}{+48.28$\shortuparrow$}                & \textcolor{ForestGreen}{+40.23$\shortuparrow$}                & \textcolor{red}{-11.69$\shortdownarrow$}              & \textcolor{red}{-88.67$\shortdownarrow$}                \\
+    Mistral-7b                                          & \textcolor{ForestGreen}{+0.2$\shortuparrow$}                   & \textcolor{ForestGreen}{+3.4$\shortuparrow$}                   & \textcolor{ForestGreen}{+19.44$\shortuparrow$}                & \textcolor{ForestGreen}{+16.2$\shortuparrow$}                & \textcolor{ForestGreen}{+6.41$\shortuparrow$}              & \textcolor{red}{-22.67$\shortdownarrow$}                \\ \hline
+    \end{tabular}
+    \caption{Comparison between: \textit{default \text{and} Universalization - Fishing}}
+    \label{tab:fishing_baseline}
+    \end{table}
+    

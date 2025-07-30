@@ -1,0 +1,85 @@
+{
+    "spring-eon-253": {
+        "gains": {
+            "persona_0": 20.0,
+            "persona_1": 2.0,
+            "persona_2": 38.0,
+            "persona_3": 5.0,
+            "persona_4": 35.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 59.20000000000001,
+        "over_usage": 60.0
+    },
+    "glamorous-gorge-256": {
+        "gains": {
+            "persona_0": 20.0,
+            "persona_1": 0.0,
+            "persona_2": 35.0,
+            "persona_3": 5.0,
+            "persona_4": 40.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 56.00000000000001,
+        "over_usage": 60.0
+    },
+    "radiant-deluge-252": {
+        "gains": {
+            "persona_0": 0.0,
+            "persona_1": 0.0,
+            "persona_2": 75.0,
+            "persona_3": 5.0,
+            "persona_4": 20.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 31.999999999999996,
+        "over_usage": 40.0
+    },
+    "unique-donkey-254": {
+        "gains": {
+            "persona_0": 0.0,
+            "persona_1": 2.0,
+            "persona_2": 73.0,
+            "persona_3": 5.0,
+            "persona_4": 20.0
+        },
+        "survival_time": 1,
+        "efficiency": 16.666666666666664,
+        "equality": 34.4,
+        "over_usage": 40.0
+    },
+    "dark-elevator-255": {
+        "gains": {
+            "persona_0": 0.0,
+            "persona_1": 5.0,
+            "persona_2": 66.0,
+            "persona_3": 25.0,
+            "persona_4": 30.0
+        },
+        "survival_time": 2,
+        "efficiency": 20.999999999999996,
+        "equality": 50.15873015873016,
+        "over_usage": 30.0
+    },
+    "general": {
+        "survival_rate": 0.0,
+        "mean_survival": 1.2,
+        "std_survival": 0.4,
+        "moe_confidence_survival": 0.5552890210395597,
+        "mean_gains": 21.04,
+        "std_gains": 2.0799999999999996,
+        "moe_confidence_gains": 2.8875029094057103,
+        "mean_efficiency": 17.53333333333333,
+        "std_efficiency": 1.733333333333333,
+        "moe_confidence_efficiency": 2.4062524245047583,
+        "mean_equality": 46.35174603174603,
+        "std_equality": 11.14877939667735,
+        "moe_confidence_equality": 15.476986992417448,
+        "mean_over_usage": 46.0,
+        "std_over_usage": 12.0,
+        "moe_confidence_over_usage": 16.658670631186794
+    }
+}

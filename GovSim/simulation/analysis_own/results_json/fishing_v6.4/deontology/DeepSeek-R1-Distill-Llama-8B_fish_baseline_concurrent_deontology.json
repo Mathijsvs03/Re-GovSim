@@ -1,0 +1,48 @@
+{
+    "sleek-planet-924": {},
+    "gentle-pyramid-908": {
+        "gains": {
+            "persona_0": 30.0,
+            "persona_1": 30.0,
+            "persona_2": 60.0,
+            "persona_3": 30.0,
+            "persona_4": 20.0
+        },
+        "survival_time": 3,
+        "efficiency": 28.333333333333332,
+        "equality": 81.17647058823529,
+        "over_usage": 66.66666666666666
+    },
+    "astral-fog-909": {
+        "gains": {
+            "persona_0": 10.0,
+            "persona_1": 10.0,
+            "persona_2": 10.0,
+            "persona_3": 10.0,
+            "persona_4": 10.0
+        },
+        "survival_time": 1,
+        "efficiency": 8.333333333333337,
+        "equality": 100.0,
+        "over_usage": 0.0
+    },
+    "toasty-firefly-923": {},
+    "general": {
+        "survival_rate": 0.0,
+        "mean_survival": 2.0,
+        "std_survival": 1.0,
+        "moe_confidence_survival": 12.706204736432095,
+        "mean_gains": 22.0,
+        "std_gains": 12.0,
+        "moe_confidence_gains": 152.47445683718513,
+        "mean_efficiency": 18.333333333333336,
+        "std_efficiency": 9.999999999999996,
+        "moe_confidence_efficiency": 127.0620473643209,
+        "mean_equality": 90.58823529411765,
+        "std_equality": 9.411764705882355,
+        "moe_confidence_equality": 119.58780928406681,
+        "mean_over_usage": 33.33333333333333,
+        "std_over_usage": 33.33333333333333,
+        "moe_confidence_over_usage": 423.5401578810698
+    }
+}
